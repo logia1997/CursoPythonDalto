@@ -1,6 +1,6 @@
 #2 lista una con nombre otra con apellidos
 
-nombre = ['Enrique','Ariana','Pedro','Roberto','Legion']
+nombre = ['Enrique2','Ariana','Pedro','Roberto','Legion']
 apellidos = ['Mena','Cordon','Suarez','Alfombra','Asesino']
 
 #Registrar esta inbformacion en TXT
